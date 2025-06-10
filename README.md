@@ -13,8 +13,8 @@ El objetivo fue diseñar una página con HTML y CSS que permita a los usuarios:
 Este proyecto me permitió practicar la estructura básica de páginas web, el uso de CSS para diseño visual, y la construcción de un flujo simple de compra en un e-commerce ficticio.
 
 🛠️ Tecnologías utilizadas
-HTML5
 
+HTML5
 CSS3
 
 Netlify (para la publicación del sitio)
