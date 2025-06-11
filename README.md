@@ -2,6 +2,7 @@
 Frontend Store - Tienda de Camisas 🛍️👕
 
 📌 Descripción del Proyecto
+
 Frontend Store es un proyecto de práctica de desarrollo web donde se creó una tienda online de camisas.
 El objetivo fue diseñar una página con HTML y CSS que permita a los usuarios:
 
